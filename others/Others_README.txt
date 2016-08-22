@@ -1,0 +1,1 @@
+We think we dont have a need to plot anything because we could not think of any proper things to plot one against each other, i.e we could not think of proper things to chose as X and Y, anything we can think of (like the the satisfiable assignment)gets too cumbersome, and does not seem to make a lot of sense.

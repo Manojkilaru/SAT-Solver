@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/chanukya/Desktop/Xilinx/SATSolver/TestBenchfor64Bit_isim_beh.exe" -prj "C:/Users/chanukya/Desktop/Xilinx/SATSolver/TestBenchfor64Bit_beh.prj" "work.TestBenchfor64Bit" 

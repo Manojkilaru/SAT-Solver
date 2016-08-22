@@ -1,0 +1,2 @@
+vhdl isim_temp "Pirates_top.vhd"
+vhdl isim_temp "Pirates_testbench1.vhd"
